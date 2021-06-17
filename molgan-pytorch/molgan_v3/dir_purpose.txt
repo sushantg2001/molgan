@@ -1,0 +1,8 @@
+graphs - time_vs_ratio.csv and all the graphs
+m1_test_input - smiles generated when testing
+m1_test_input - smiles generated when testing
+m1_test_output - output generated when testing
+m1_train_input - smiles generated when training
+m1_train_output - output generated when training
+models - contain all the models
+logs -  tensorboard files
